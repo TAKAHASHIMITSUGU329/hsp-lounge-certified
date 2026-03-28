@@ -5,6 +5,7 @@ export default defineNuxtConfig({
   modules: ['@nuxtjs/tailwindcss'],
   css: ['~/assets/css/main.css'],
   app: {
+    baseURL: '/hsp-lounge-certified/',
     head: {
       charset: 'utf-8',
       viewport: 'width=device-width, initial-scale=1',
