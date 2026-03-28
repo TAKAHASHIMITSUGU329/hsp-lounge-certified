@@ -2,7 +2,7 @@
   <div class="elegant-card cursor-pointer overflow-hidden" @click="$emit('select', cafe)">
     <!-- Thumbnail photo -->
     <div v-if="cafe.photos && cafe.photos.length > 0" class="relative h-36 overflow-hidden">
-      <img :src="cafe.photos[0]" :alt="cafe.name" class="w-full h-full object-cover" loading="lazy">
+      <img :src="photoUrl(cafe.photos[0])" :alt="cafe.name" class="w-full h-full object-cover" loading="lazy">
       <div class="absolute top-2 right-2 bg-dark-900/60 text-white text-[10px] px-2 py-0.5 rounded-sm flex items-center gap-1">
         <span class="material-symbols-outlined" style="font-size:12px">photo_camera</span>
         {{ cafe.photos.length }}
@@ -48,6 +48,7 @@ import { getTier } from '~/composables/useCafeSurveyData'
 const props = defineProps<{ cafe: CafeSurvey & { avgScore: number } }>()
 defineEmits<{ select: [cafe: CafeSurvey & { avgScore: number }] }>()
 
+const { photoUrl } = useCafeSurveyData()
 const tier = computed(() => getTier(props.cafe.avgScore))
 const formattedDate = computed(() => {
   const d = new Date(props.cafe.date)

@@ -12,7 +12,7 @@
 
       <!-- Photo Gallery -->
       <div v-if="cafe.photos && cafe.photos.length > 0" class="relative">
-        <img :src="cafe.photos[activePhoto]" :alt="cafe.name" class="w-full h-56 md:h-72 object-cover">
+        <img :src="photoUrl(cafe.photos[activePhoto])" :alt="cafe.name" class="w-full h-56 md:h-72 object-cover">
         <!-- Photo nav dots -->
         <div class="absolute bottom-3 left-1/2 -translate-x-1/2 flex gap-1.5">
           <button
@@ -140,7 +140,7 @@ import { getTier, memoLabels, ratingLabels } from '~/composables/useCafeSurveyDa
 const props = defineProps<{ cafe: CafeSurvey & { avgScore: number } }>()
 defineEmits<{ close: [] }>()
 
-const { getGroupedRatings, ratingSymbol, ratingColorClass } = useCafeSurveyData()
+const { getGroupedRatings, ratingSymbol, ratingColorClass, photoUrl } = useCafeSurveyData()
 const activePhoto = ref(0)
 const tier = computed(() => getTier(props.cafe.avgScore))
 const groupedRatings = computed(() => getGroupedRatings(props.cafe))

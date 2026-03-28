@@ -126,10 +126,15 @@ export function useCafeSurveyData() {
     return 'rating-poor'
   }
 
+  function photoUrl(path: string): string {
+    const base = useRuntimeConfig().app.baseURL || '/'
+    return base.replace(/\/$/, '') + path
+  }
+
   return {
     cafes, sortedByScore, topCafes, tierGroups, categoryAverages,
     luxData, dbData, colorTempData, allAreas,
     getGroupedRatings, groupedCategories,
-    ratingLabels, memoLabels, ratingSymbol, ratingColorClass, overallScore, getTier,
+    ratingLabels, memoLabels, ratingSymbol, ratingColorClass, overallScore, getTier, photoUrl,
   }
 }
