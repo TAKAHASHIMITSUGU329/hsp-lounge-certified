@@ -1,0 +1,133 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ============================================
+   HSP Lounge Certified — Maison Parisienne
+   ============================================ */
+
+@layer base {
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: 'Literata', 'Noto Sans JP', serif;
+    background: #FDFBF8;
+    color: #2C2520;
+  }
+}
+
+@layer components {
+  /* Scroll reveal */
+  .reveal {
+    opacity: 0;
+    transform: translateY(24px);
+    transition: opacity 0.7s cubic-bezier(0.16, 1, 0.3, 1),
+                transform 0.7s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+  .reveal.revealed { opacity: 1; transform: translateY(0); }
+  .reveal-delay-100 { transition-delay: 0.1s; }
+  .reveal-delay-200 { transition-delay: 0.2s; }
+  .reveal-delay-300 { transition-delay: 0.3s; }
+  .reveal-delay-400 { transition-delay: 0.4s; }
+  .reveal-delay-500 { transition-delay: 0.5s; }
+
+  /* Gold molding decorative line */
+  .gold-molding {
+    height: 1px;
+    background: linear-gradient(90deg, transparent, #C5A052 20%, #E8D5A8 50%, #C5A052 80%, transparent);
+  }
+  .gold-molding-thick {
+    height: 2px;
+    background: linear-gradient(90deg, transparent, #C5A052 20%, #E8D5A8 50%, #C5A052 80%, transparent);
+  }
+
+  /* Marble background texture */
+  .marble-bg {
+    background: linear-gradient(135deg, #FDFBF8 0%, #F5EDE0 50%, #FDFBF8 100%);
+  }
+
+  /* Section label */
+  .section-label {
+    @apply text-gold-400 font-serif text-xs tracking-[0.3em] uppercase font-semibold;
+  }
+  .section-title {
+    @apply font-serif font-bold text-dark-800 text-3xl md:text-4xl leading-tight;
+  }
+
+  /* Elegant card */
+  .elegant-card {
+    @apply bg-white rounded-sm border border-marble-300 shadow-sm;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  .elegant-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 30px -8px rgba(197, 160, 82, 0.15);
+  }
+
+  /* Tier badges */
+  .tier-s { @apply bg-gold-400 text-white font-serif font-bold px-3 py-1 text-xs tracking-wider; }
+  .tier-a { @apply bg-dark-800 text-white font-serif font-bold px-3 py-1 text-xs tracking-wider; }
+  .tier-b { @apply bg-marble-400 text-dark-800 font-serif font-bold px-3 py-1 text-xs tracking-wider; }
+  .tier-c { @apply bg-marble-200 text-dark-800/60 font-serif font-bold px-3 py-1 text-xs tracking-wider; }
+
+  /* Button */
+  .btn-gold {
+    @apply inline-flex items-center gap-2 px-6 py-3 bg-gold-400 text-white font-serif font-semibold text-sm tracking-wider rounded-sm
+           hover:bg-gold-500 transition-colors duration-300;
+  }
+  .btn-salmon {
+    @apply inline-flex items-center gap-2 px-6 py-3 bg-salmon-300 text-white font-serif font-semibold text-sm tracking-wider rounded-sm
+           hover:bg-salmon-400 transition-colors duration-300;
+  }
+  .btn-outline {
+    @apply inline-flex items-center gap-2 px-6 py-3 border border-gold-400 text-gold-400 font-serif font-semibold text-sm tracking-wider rounded-sm
+           hover:bg-gold-400 hover:text-white transition-colors duration-300;
+  }
+
+  /* Metric card */
+  .metric-card {
+    @apply bg-marble-200/50 rounded-sm p-5 text-center border border-marble-300/50;
+  }
+  .metric-value {
+    @apply font-serif font-bold text-2xl md:text-3xl text-dark-800;
+  }
+  .metric-label {
+    @apply text-xs text-dark-800/50 mt-1 tracking-wider uppercase;
+  }
+
+  /* Rating symbols */
+  .rating-excellent { color: #C5A052; }
+  .rating-good { color: #2C2520; }
+  .rating-fair { color: #C5A052; opacity: 0.5; }
+  .rating-poor { color: #E8967D; }
+
+  /* Filter button */
+  .filter-btn {
+    @apply px-4 py-2 text-sm font-serif tracking-wider transition-all duration-200 rounded-sm;
+  }
+  .filter-btn-active {
+    @apply bg-gold-400 text-white;
+  }
+  .filter-btn-inactive {
+    @apply bg-white text-dark-800/60 border border-marble-300 hover:border-gold-300;
+  }
+
+  /* Modal overlay */
+  .modal-backdrop {
+    @apply fixed inset-0 bg-dark-900/40 backdrop-blur-sm z-50;
+  }
+  .modal-panel {
+    @apply fixed top-0 right-0 h-full w-full md:w-[600px] bg-marble-50 z-50 overflow-y-auto shadow-2xl;
+    transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #FDFBF8; }
+::-webkit-scrollbar-thumb { background: #D6C9B6; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #C5A052; }
+
+/* Material symbols */
+.material-symbols-outlined {
+  font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+}

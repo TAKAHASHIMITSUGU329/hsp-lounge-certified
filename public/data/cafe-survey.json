@@ -1,0 +1,1170 @@
+[
+  {
+    "id": 1,
+    "name": "シテイベーカリー横浜 THE YOKOHAMA FRONT",
+    "area": "横浜",
+    "date": "2024-06-20",
+    "ratings": {
+      "light": 3,
+      "visual": 4,
+      "sound": 3,
+      "spaceWidth": 1,
+      "floor": 3,
+      "table": 4,
+      "chair": 4,
+      "baggage": 3,
+      "service": 3,
+      "airTemp": 3,
+      "guidance": 3,
+      "hygiene": 3,
+      "safetyBurden": 3
+    },
+    "measurements": {
+      "lux": null,
+      "db": null,
+      "colorTempK": null
+    },
+    "service": {
+      "priceTier": null,
+      "orderMethod": null,
+      "paymentMethod": null
+    },
+    "visitContext": {
+      "timeSlot": null,
+      "weather": null
+    },
+    "highlights": "",
+    "improvements": "",
+    "totalScore": null,
+    "memos": {},
+    "hasPhoto": false,
+    "photos": []
+  },
+  {
+    "id": 2,
+    "name": "神楽坂 Mrs.KINGSMAN",
+    "area": "神楽坂",
+    "date": "2024-06-22",
+    "ratings": {
+      "light": 3,
+      "visual": 4,
+      "sound": 4,
+      "spaceWidth": 3,
+      "floor": 3,
+      "table": 4,
+      "chair": 4,
+      "baggage": 3,
+      "service": 3,
+      "airTemp": 4,
+      "guidance": 3,
+      "hygiene": 3,
+      "safetyBurden": 4
+    },
+    "measurements": {
+      "lux": null,
+      "db": null,
+      "colorTempK": null
+    },
+    "service": {
+      "priceTier": "△",
+      "orderMethod": "口頭",
+      "paymentMethod": "口頭"
+    },
+    "visitContext": {
+      "timeSlot": null,
+      "weather": null
+    },
+    "highlights": "",
+    "improvements": "",
+    "totalScore": null,
+    "memos": {},
+    "hasPhoto": false,
+    "photos": []
+  },
+  {
+    "id": 3,
+    "name": "麻布十番 CHIHYE COFFEE",
+    "area": "麻布十番",
+    "date": "2024-06-23",
+    "ratings": {
+      "light": 3,
+      "visual": 4,
+      "sound": 3,
+      "spaceWidth": 2,
+      "floor": 3,
+      "table": 2,
+      "chair": 1,
+      "baggage": 2,
+      "service": 4,
+      "airTemp": 4,
+      "guidance": 3,
+      "hygiene": 3,
+      "safetyBurden": 3
+    },
+    "measurements": {
+      "lux": null,
+      "db": null,
+      "colorTempK": null
+    },
+    "service": {
+      "priceTier": "△",
+      "orderMethod": "口頭",
+      "paymentMethod": "口頭"
+    },
+    "visitContext": {
+      "timeSlot": null,
+      "weather": null
+    },
+    "highlights": "オーダー後席まで持ってきてくれる",
+    "improvements": "",
+    "totalScore": null,
+    "memos": {},
+    "hasPhoto": false,
+    "photos": []
+  },
+  {
+    "id": 4,
+    "name": "池袋 梟書茶房",
+    "area": "池袋",
+    "date": "2024-06-24",
+    "ratings": {
+      "light": 4,
+      "visual": 4,
+      "sound": 4,
+      "spaceWidth": 4,
+      "floor": 3,
+      "table": 4,
+      "chair": 4,
+      "baggage": 3,
+      "service": 3,
+      "airTemp": 4,
+      "guidance": 3,
+      "hygiene": 3,
+      "safetyBurden": 4
+    },
+    "measurements": {
+      "lux": null,
+      "db": null,
+      "colorTempK": null
+    },
+    "service": {
+      "priceTier": "○",
+      "orderMethod": "モバイルオーダー",
+      "paymentMethod": "モバイルオーダー"
+    },
+    "visitContext": {
+      "timeSlot": null,
+      "weather": null
+    },
+    "highlights": "モバイルオーダー・コールボタン設置・オンライン会議禁止",
+    "improvements": "席後ろ通路狭い・入口導線不明確・済み皿放置",
+    "totalScore": null,
+    "memos": {},
+    "hasPhoto": false,
+    "photos": []
+  },
+  {
+    "id": 5,
+    "name": "新宿京王デパート 光悦",
+    "area": "新宿",
+    "date": "2024-06-27",
+    "ratings": {
+      "light": 3,
+      "visual": 4,
+      "sound": 3,
+      "spaceWidth": 2,
+      "floor": 4,
+      "table": 4,
+      "chair": 4,
+      "baggage": 4,
+      "service": 4,
+      "airTemp": 4,
+      "guidance": 4,
+      "hygiene": 4,
+      "safetyBurden": 2
+    },
+    "measurements": {
+      "lux": null,
+      "db": null,
+      "colorTempK": null
+    },
+    "service": {
+      "priceTier": "△",
+      "orderMethod": "口頭",
+      "paymentMethod": "口頭"
+    },
+    "visitContext": {
+      "timeSlot": null,
+      "weather": null
+    },
+    "highlights": "接客素晴らしい・味も素晴らしい",
+    "improvements": "空間は狭め",
+    "totalScore": null,
+    "memos": {},
+    "hasPhoto": false,
+    "photos": []
+  },
+  {
+    "id": 6,
+    "name": "品川インターシティ スターバックス",
+    "area": "品川",
+    "date": "2024-07-04",
+    "ratings": {
+      "light": 3,
+      "visual": 3,
+      "sound": 2,
+      "spaceWidth": 1,
+      "floor": 3,
+      "table": 1,
+      "chair": 1,
+      "baggage": 2,
+      "service": 4,
+      "airTemp": 3,
+      "guidance": 3,
+      "hygiene": 3,
+      "safetyBurden": 2
+    },
+    "measurements": {
+      "lux": null,
+      "db": null,
+      "colorTempK": null
+    },
+    "service": {
+      "priceTier": "○",
+      "orderMethod": "口頭",
+      "paymentMethod": "口頭"
+    },
+    "visitContext": {
+      "timeSlot": null,
+      "weather": null
+    },
+    "highlights": "心のこもった接客",
+    "improvements": "空間かなり狭め・テーブル椅子高い・レジ音騒がしい",
+    "totalScore": null,
+    "memos": {},
+    "hasPhoto": false,
+    "photos": []
+  },
+  {
+    "id": 7,
+    "name": "白金高輪 neito",
+    "area": "白金高輪",
+    "date": "2024-07-06",
+    "ratings": {
+      "light": 3,
+      "visual": 4,
+      "sound": 2,
+      "spaceWidth": 4,
+      "floor": 3,
+      "table": 2,
+      "chair": 4,
+      "baggage": 3,
+      "service": 4,
+      "airTemp": 4,
+      "guidance": 3,
+      "hygiene": 3,
+      "safetyBurden": 4
+    },
+    "measurements": {
+      "lux": null,
+      "db": null,
+      "colorTempK": null
+    },
+    "service": {
+      "priceTier": "△",
+      "orderMethod": "口頭",
+      "paymentMethod": "口頭"
+    },
+    "visitContext": {
+      "timeSlot": null,
+      "weather": null
+    },
+    "highlights": "接客素晴らしい・器が素晴らしい",
+    "improvements": "テーブル近くで見られている感覚・グラスコーナー騒がしい",
+    "totalScore": null,
+    "memos": {},
+    "hasPhoto": false,
+    "photos": []
+  },
+  {
+    "id": 8,
+    "name": "麻布十番 CAFFERA BAR and LOUNGE",
+    "area": "麻布十番",
+    "date": "2024-07-08",
+    "ratings": {
+      "light": 3,
+      "visual": 3,
+      "sound": 2,
+      "spaceWidth": 2,
+      "floor": 3,
+      "table": 2,
+      "chair": 3,
+      "baggage": 3,
+      "service": 3,
+      "airTemp": 3,
+      "guidance": 3,
+      "hygiene": 3,
+      "safetyBurden": 4
+    },
+    "measurements": {
+      "lux": null,
+      "db": null,
+      "colorTempK": null
+    },
+    "service": {
+      "priceTier": "×",
+      "orderMethod": "QRコードオーダー",
+      "paymentMethod": "QRコードオーダー"
+    },
+    "visitContext": {
+      "timeSlot": null,
+      "weather": null
+    },
+    "highlights": "QRコードオーダー・席まで持ってきてくれる",
+    "improvements": "空間狭い・隣席間隔狭い・扉大きな音・割高",
+    "totalScore": null,
+    "memos": {},
+    "hasPhoto": false,
+    "photos": []
+  },
+  {
+    "id": 9,
+    "name": "view gold LOUNGE",
+    "area": "その他",
+    "date": "2024-07-19",
+    "ratings": {
+      "light": 4,
+      "visual": 4,
+      "sound": 4,
+      "spaceWidth": 3,
+      "floor": 2,
+      "table": 2,
+      "chair": 2,
+      "baggage": 4,
+      "service": 4,
+      "airTemp": 4,
+      "guidance": 4,
+      "hygiene": 4,
+      "safetyBurden": 4
+    },
+    "measurements": {
+      "lux": null,
+      "db": null,
+      "colorTempK": null
+    },
+    "service": {
+      "priceTier": "◎",
+      "orderMethod": null,
+      "paymentMethod": null
+    },
+    "visitContext": {
+      "timeSlot": null,
+      "weather": null
+    },
+    "highlights": "スチュワーデス級接客・お土産あり",
+    "improvements": "",
+    "totalScore": null,
+    "memos": {},
+    "hasPhoto": false,
+    "photos": []
+  },
+  {
+    "id": 10,
+    "name": "BUTAI(八芳園) 高輪ゲートウェイ",
+    "area": "高輪",
+    "date": "2025-09-15",
+    "ratings": {
+      "light": 4,
+      "visual": 4,
+      "sound": 4,
+      "spaceWidth": 2,
+      "floor": 2,
+      "table": 3,
+      "chair": 3,
+      "baggage": 2,
+      "service": 4,
+      "airTemp": 4,
+      "guidance": 4,
+      "hygiene": 4,
+      "safetyBurden": 3
+    },
+    "measurements": {
+      "lux": null,
+      "db": null,
+      "colorTempK": null
+    },
+    "service": {
+      "priceTier": "○",
+      "orderMethod": null,
+      "paymentMethod": null
+    },
+    "visitContext": {
+      "timeSlot": null,
+      "weather": null
+    },
+    "highlights": "",
+    "improvements": "",
+    "totalScore": null,
+    "memos": {},
+    "hasPhoto": false,
+    "photos": []
+  },
+  {
+    "id": 11,
+    "name": "マクドナルド赤羽東口店",
+    "area": "赤羽",
+    "date": "2026-03-01",
+    "ratings": {
+      "light": 1,
+      "visual": 2,
+      "sound": 2,
+      "spaceWidth": 1,
+      "floor": 1,
+      "table": 2,
+      "chair": 1,
+      "baggage": 2,
+      "service": 3,
+      "airTemp": 3,
+      "guidance": 4,
+      "hygiene": 1,
+      "safetyBurden": 3
+    },
+    "measurements": {
+      "lux": null,
+      "db": null,
+      "colorTempK": null
+    },
+    "service": {
+      "priceTier": "◎",
+      "orderMethod": null,
+      "paymentMethod": null
+    },
+    "visitContext": {
+      "timeSlot": null,
+      "weather": null
+    },
+    "highlights": "充電スポット明記・接客丁寧",
+    "improvements": "席間隔狭い・テーブル振動・椅子小さい・清潔感不足",
+    "totalScore": null,
+    "memos": {},
+    "hasPhoto": false,
+    "photos": []
+  },
+  {
+    "id": 12,
+    "name": "スタバ 汐留",
+    "area": "汐留",
+    "date": "2026-03-02",
+    "ratings": {
+      "light": 3,
+      "visual": 4,
+      "sound": 3,
+      "spaceWidth": 3,
+      "floor": 3,
+      "table": 2,
+      "chair": 3,
+      "baggage": 3,
+      "service": 3,
+      "airTemp": 3,
+      "guidance": 3,
+      "hygiene": 4,
+      "safetyBurden": 3
+    },
+    "measurements": {
+      "lux": 373,
+      "db": 60,
+      "colorTempK": null
+    },
+    "service": {
+      "priceTier": null,
+      "orderMethod": "モバイルオーダー",
+      "paymentMethod": "モバイル決済"
+    },
+    "visitContext": {
+      "timeSlot": null,
+      "weather": null
+    },
+    "highlights": "",
+    "improvements": "",
+    "totalScore": null,
+    "memos": {},
+    "hasPhoto": false,
+    "photos": []
+  },
+  {
+    "id": 13,
+    "name": "シティーベーカリー 品川",
+    "area": "品川",
+    "date": "2026-03-03",
+    "ratings": {
+      "light": 2,
+      "visual": 3,
+      "sound": 2,
+      "spaceWidth": 1,
+      "floor": 3,
+      "table": 1,
+      "chair": 2,
+      "baggage": 2,
+      "service": 2,
+      "airTemp": 3,
+      "guidance": 4,
+      "hygiene": 2,
+      "safetyBurden": 2
+    },
+    "measurements": {
+      "lux": 266,
+      "db": 63,
+      "colorTempK": null
+    },
+    "service": {
+      "priceTier": "○",
+      "orderMethod": "口頭",
+      "paymentMethod": "QRコード決済なし"
+    },
+    "visitContext": {
+      "timeSlot": null,
+      "weather": null
+    },
+    "highlights": "カウンター席窓向き",
+    "improvements": "テーブル振動・ゴミ箱隣・食器片付け音・壁汚れ",
+    "totalScore": null,
+    "memos": {},
+    "hasPhoto": false,
+    "photos": []
+  },
+  {
+    "id": 14,
+    "name": "エビン(北参道)",
+    "area": "北参道",
+    "date": "2026-03-07",
+    "ratings": {
+      "light": 3,
+      "visual": 3,
+      "sound": 3,
+      "spaceWidth": 3,
+      "floor": 3,
+      "table": 3,
+      "chair": 3,
+      "baggage": 3,
+      "service": 4,
+      "airTemp": 3,
+      "guidance": 3,
+      "hygiene": 3,
+      "safetyBurden": 4
+    },
+    "measurements": {
+      "lux": 96,
+      "db": 58,
+      "colorTempK": 3100
+    },
+    "service": {
+      "priceTier": null,
+      "orderMethod": "テーブル直接",
+      "paymentMethod": "レジ決済"
+    },
+    "visitContext": {
+      "timeSlot": null,
+      "weather": null
+    },
+    "highlights": "席広い・テーブル大きい・安くて美味しい",
+    "improvements": "入口清潔感なし・椅子連結・トイレ汚い",
+    "totalScore": null,
+    "memos": {},
+    "hasPhoto": true,
+    "photos": [
+      "/photos/store14_1.jpg",
+      "/photos/store14_2.jpg",
+      "/photos/store14_3.jpg",
+      "/photos/store14_4.jpg",
+      "/photos/store14_5.jpg",
+      "/photos/store14_6.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "ブーランジェリーサリュー北参道",
+    "area": "北参道",
+    "date": "2026-03-07",
+    "ratings": {
+      "light": 3,
+      "visual": 3,
+      "sound": 2,
+      "spaceWidth": 1,
+      "floor": 1,
+      "table": 1,
+      "chair": 1,
+      "baggage": 1,
+      "service": 2,
+      "airTemp": 3,
+      "guidance": 3,
+      "hygiene": 3,
+      "safetyBurden": 2
+    },
+    "measurements": {
+      "lux": 322,
+      "db": 63,
+      "colorTempK": 5700
+    },
+    "service": {
+      "priceTier": "△",
+      "orderMethod": "テーブル直接",
+      "paymentMethod": "レジ決済"
+    },
+    "visitContext": {
+      "timeSlot": null,
+      "weather": null
+    },
+    "highlights": "雰囲気良い・自家製プリン美味しい",
+    "improvements": "席間隔狭い・椅子落ち着かない・荷物置き不安",
+    "totalScore": 44,
+    "memos": {
+      "light": "ほぼ間接照明・窓から自然光",
+      "visual": "白とベージュ・木の色合い",
+      "sound": "隣接の声やくしゃみが聞こえる",
+      "space": "席間隔狭い",
+      "psychSafety": "滞在時間指定あり",
+      "equipment": "カウンター席椅子小さく不安定",
+      "otherFacility": "入口雑多"
+    },
+    "hasPhoto": true,
+    "photos": [
+      "/photos/store15_1.jpg",
+      "/photos/store15_2.jpg",
+      "/photos/store15_3.jpg",
+      "/photos/store15_4.jpg",
+      "/photos/store15_5.jpg",
+      "/photos/store15_6.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "楽水楽山 伊香保温泉",
+    "area": "伊香保温泉",
+    "date": "2026-03-10",
+    "ratings": {
+      "light": 3,
+      "visual": 4,
+      "sound": 3,
+      "spaceWidth": 2,
+      "floor": 3,
+      "table": 3,
+      "chair": 3,
+      "baggage": 2,
+      "service": 3,
+      "airTemp": 3,
+      "guidance": 3,
+      "hygiene": 3,
+      "safetyBurden": 3
+    },
+    "measurements": {
+      "lux": 129,
+      "db": 60,
+      "colorTempK": null
+    },
+    "service": {
+      "priceTier": "○",
+      "orderMethod": "テーブル直接",
+      "paymentMethod": "レジ決済"
+    },
+    "visitContext": {
+      "timeSlot": null,
+      "weather": null
+    },
+    "highlights": "",
+    "improvements": "",
+    "totalScore": null,
+    "memos": {},
+    "hasPhoto": true,
+    "photos": [
+      "/photos/store16_1.jpg",
+      "/photos/store16_2.jpg",
+      "/photos/store16_3.jpg",
+      "/photos/store16_4.jpg",
+      "/photos/store16_5.jpg",
+      "/photos/store16_6.jpg",
+      "/photos/store16_7.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "八芳園 むすび茶屋(風土)",
+    "area": "高輪",
+    "date": "2026-03-14",
+    "ratings": {
+      "light": 3,
+      "visual": 3,
+      "sound": 2,
+      "spaceWidth": 1,
+      "floor": 3,
+      "table": 3,
+      "chair": 3,
+      "baggage": 3,
+      "service": 2,
+      "airTemp": 3,
+      "guidance": 3,
+      "hygiene": 3,
+      "safetyBurden": 2
+    },
+    "measurements": {
+      "lux": 224,
+      "db": 62,
+      "colorTempK": 3300
+    },
+    "service": {
+      "priceTier": null,
+      "orderMethod": null,
+      "paymentMethod": null
+    },
+    "visitContext": {
+      "timeSlot": null,
+      "weather": null
+    },
+    "highlights": "雰囲気良い・椅子座りやすい",
+    "improvements": "ソファー連結振動・席間隔狭い・接客イマイチ",
+    "totalScore": 62,
+    "memos": {
+      "sound": "静かなオルゴール系",
+      "space": "2人席間隔狭い",
+      "service": "気配りない"
+    },
+    "hasPhoto": true,
+    "photos": [
+      "/photos/store17_1.jpg",
+      "/photos/store17_2.jpg",
+      "/photos/store17_3.jpg",
+      "/photos/store17_4.jpg",
+      "/photos/store17_5.jpg"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "B1F PRONTO 日比谷公園店",
+    "area": "日比谷",
+    "date": "2026-03-15",
+    "ratings": {
+      "light": 3,
+      "visual": 4,
+      "sound": 4,
+      "spaceWidth": 4,
+      "floor": 3,
+      "table": 2,
+      "chair": 4,
+      "baggage": 4,
+      "service": 4,
+      "airTemp": 4,
+      "guidance": 4,
+      "hygiene": 4,
+      "safetyBurden": 4
+    },
+    "measurements": {
+      "lux": 73,
+      "db": 51,
+      "colorTempK": 2400
+    },
+    "service": {
+      "priceTier": null,
+      "orderMethod": "入口レジカウンター直接",
+      "paymentMethod": "入口レジカウンター直接"
+    },
+    "visitContext": {
+      "timeSlot": null,
+      "weather": null
+    },
+    "highlights": "大テーブルゆったり・高級ホテル空気感・スタッフ対応素晴らしい",
+    "improvements": "",
+    "totalScore": 108,
+    "memos": {},
+    "hasPhoto": true,
+    "photos": [
+      "/photos/store18_1.jpg",
+      "/photos/store18_2.jpg",
+      "/photos/store18_3.jpg",
+      "/photos/store18_4.jpg",
+      "/photos/store18_5.jpg",
+      "/photos/store18_6.jpg"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "1F PRONTO ライブラリーショップ&カフェ日比谷店",
+    "area": "日比谷",
+    "date": "2026-03-15",
+    "ratings": {
+      "light": 4,
+      "visual": 3,
+      "sound": 4,
+      "spaceWidth": 4,
+      "floor": 4,
+      "table": 2,
+      "chair": 4,
+      "baggage": 3,
+      "service": 3,
+      "airTemp": 3,
+      "guidance": 4,
+      "hygiene": 4,
+      "safetyBurden": 4
+    },
+    "measurements": {
+      "lux": 842,
+      "db": 50,
+      "colorTempK": 3600
+    },
+    "service": {
+      "priceTier": null,
+      "orderMethod": "入口レジカウンター直接",
+      "paymentMethod": "入口レジカウンター直接"
+    },
+    "visitContext": {
+      "timeSlot": null,
+      "weather": null
+    },
+    "highlights": "居心地の良さ・大きな窓・静か・通話写真NGプラカード",
+    "improvements": "長テーブル縦幅狭い・向かい合い距離近い",
+    "totalScore": 108,
+    "memos": {
+      "light": "スポットライト+自然光",
+      "visual": "自然色基調・木の色・グリーンチェック柄椅子",
+      "sound": "インストゥルメンタル系",
+      "space": "隣席間隔狭い方",
+      "service": "静かに丁寧",
+      "psychSafety": "安心感素晴らしい",
+      "airTemp": "空調ちょうど良い",
+      "guidance": "入口から案内あり",
+      "equipment": "長テーブル充電スポットあり・振動伝達あり",
+      "otherFacility": "入口カウンターあり・適正価格"
+    },
+    "hasPhoto": true,
+    "photos": [
+      "/photos/store19_1.jpg",
+      "/photos/store19_2.jpg",
+      "/photos/store19_3.jpg",
+      "/photos/store19_4.jpg"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "ヤホコーヒー",
+    "area": "その他",
+    "date": "2026-03-17",
+    "ratings": {
+      "light": 3,
+      "visual": 4,
+      "sound": 2,
+      "spaceWidth": 2,
+      "floor": 2,
+      "table": 2,
+      "chair": 2,
+      "baggage": 2,
+      "service": 3,
+      "airTemp": 3,
+      "guidance": 3,
+      "hygiene": 2,
+      "safetyBurden": 3
+    },
+    "measurements": {
+      "lux": 1212,
+      "db": 59,
+      "colorTempK": 4500
+    },
+    "service": {
+      "priceTier": null,
+      "orderMethod": "入口レジカウンター直接",
+      "paymentMethod": "入口レジカウンター直接"
+    },
+    "visitContext": {
+      "timeSlot": "16:00-17:00",
+      "weather": null
+    },
+    "highlights": "窓向きの机",
+    "improvements": "入口入りにくい・レジ不明・机連結・椅子ガタツキ・床音・窓外人通り",
+    "totalScore": null,
+    "memos": {},
+    "hasPhoto": true,
+    "photos": [
+      "/photos/store20_1.jpg",
+      "/photos/store20_2.jpg",
+      "/photos/store20_3.jpg",
+      "/photos/store20_4.jpg",
+      "/photos/store20_5.jpg"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "猿田彦珈琲(新御茶ノ水)",
+    "area": "御茶ノ水",
+    "date": "2026-03-18",
+    "ratings": {
+      "light": 4,
+      "visual": 4,
+      "sound": 4,
+      "spaceWidth": 4,
+      "floor": 4,
+      "table": 4,
+      "chair": 4,
+      "baggage": 4,
+      "service": 4,
+      "airTemp": 4,
+      "guidance": 4,
+      "hygiene": 4,
+      "safetyBurden": 4
+    },
+    "measurements": {
+      "lux": 1149,
+      "db": 57,
+      "colorTempK": 2500
+    },
+    "service": {
+      "priceTier": null,
+      "orderMethod": "入口レジカウンター直接",
+      "paymentMethod": "入口レジカウンター直接"
+    },
+    "visitContext": {
+      "timeSlot": null,
+      "weather": null
+    },
+    "highlights": "HSPにとって素晴らしい空間・床絨毯・椅子大きめ",
+    "improvements": "",
+    "totalScore": null,
+    "memos": {},
+    "hasPhoto": true,
+    "photos": [
+      "/photos/store21_1.jpg",
+      "/photos/store21_2.jpg",
+      "/photos/store21_3.jpg",
+      "/photos/store21_4.jpg",
+      "/photos/store21_5.jpg",
+      "/photos/store21_6.jpg"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "カフェamprere 本の森ちゅうおう八丁堀",
+    "area": "八丁堀",
+    "date": "2026-03-20",
+    "ratings": {
+      "light": 3,
+      "visual": 3,
+      "sound": 3,
+      "spaceWidth": 2,
+      "floor": 3,
+      "table": 3,
+      "chair": 3,
+      "baggage": 4,
+      "service": 3,
+      "airTemp": 4,
+      "guidance": 3,
+      "hygiene": 3,
+      "safetyBurden": 3
+    },
+    "measurements": {
+      "lux": 1672,
+      "db": 58,
+      "colorTempK": 3200
+    },
+    "service": {
+      "priceTier": null,
+      "orderMethod": "入口レジカウンター直接",
+      "paymentMethod": "入口レジカウンター直接"
+    },
+    "visitContext": {
+      "timeSlot": null,
+      "weather": null
+    },
+    "highlights": "",
+    "improvements": "外の出入口扉から風寒い",
+    "totalScore": null,
+    "memos": {},
+    "hasPhoto": true,
+    "photos": [
+      "/photos/store22_1.jpg",
+      "/photos/store22_2.jpg",
+      "/photos/store22_3.jpg",
+      "/photos/store22_4.jpg"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "B1F PRONTO 日比谷公園店(2回目)",
+    "area": "日比谷",
+    "date": "2026-03-20",
+    "ratings": {
+      "light": 4,
+      "visual": 4,
+      "sound": 4,
+      "spaceWidth": 4,
+      "floor": 4,
+      "table": 4,
+      "chair": 4,
+      "baggage": 4,
+      "service": 3,
+      "airTemp": 4,
+      "guidance": 4,
+      "hygiene": 4,
+      "safetyBurden": 4
+    },
+    "measurements": {
+      "lux": 298,
+      "db": 54,
+      "colorTempK": 2300
+    },
+    "service": {
+      "priceTier": null,
+      "orderMethod": "入口レジカウンター直接",
+      "paymentMethod": "入口レジカウンター直接"
+    },
+    "visitContext": {
+      "timeSlot": null,
+      "weather": null
+    },
+    "highlights": "キャビネット間仕切り良い・充電可能・周囲礼儀正しい",
+    "improvements": "",
+    "totalScore": 108,
+    "memos": {},
+    "hasPhoto": true,
+    "photos": [
+      "/photos/store23_1.jpg",
+      "/photos/store23_2.jpg",
+      "/photos/store23_3.jpg",
+      "/photos/store23_4.jpg",
+      "/photos/store23_5.jpg"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "オークラカフェレストランメディコ九段下病院13階",
+    "area": "九段下",
+    "date": "2026-03-21",
+    "ratings": {
+      "light": 3,
+      "visual": 3,
+      "sound": 3,
+      "spaceWidth": 3,
+      "floor": 3,
+      "table": 3,
+      "chair": 3,
+      "baggage": 3,
+      "service": 3,
+      "airTemp": 1,
+      "guidance": 1,
+      "hygiene": 4,
+      "safetyBurden": null
+    },
+    "measurements": {
+      "lux": 1680,
+      "db": 46,
+      "colorTempK": 6000
+    },
+    "service": {
+      "priceTier": "やや高い",
+      "orderMethod": "テーブル直接",
+      "paymentMethod": "レジ直接"
+    },
+    "visitContext": {
+      "timeSlot": null,
+      "weather": null
+    },
+    "highlights": "景色素晴らしい・接客素晴らしい・床絨毯",
+    "improvements": "テーブルほこり・価格高め",
+    "totalScore": null,
+    "memos": {},
+    "hasPhoto": true,
+    "photos": [
+      "/photos/store24_1.jpg",
+      "/photos/store24_2.jpg",
+      "/photos/store24_3.jpg",
+      "/photos/store24_4.jpg",
+      "/photos/store24_5.jpg"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Walkaboutコーヒー神田錦町",
+    "area": "神田",
+    "date": "2026-03-21",
+    "ratings": {
+      "light": 2,
+      "visual": 2,
+      "sound": 2,
+      "spaceWidth": 2,
+      "floor": 3,
+      "table": 1,
+      "chair": 1,
+      "baggage": 1,
+      "service": 3,
+      "airTemp": 3,
+      "guidance": 3,
+      "hygiene": 3,
+      "safetyBurden": 1
+    },
+    "measurements": {
+      "lux": 201,
+      "db": 50,
+      "colorTempK": 5900
+    },
+    "service": {
+      "priceTier": "やや高い",
+      "orderMethod": "入口レジカウンター直接",
+      "paymentMethod": "入口レジカウンター直接"
+    },
+    "visitContext": {
+      "timeSlot": null,
+      "weather": null
+    },
+    "highlights": "",
+    "improvements": "店内狭い・座席簡易的・高い・常連とトーク",
+    "totalScore": null,
+    "memos": {},
+    "hasPhoto": true,
+    "photos": [
+      "/photos/store25_1.jpg",
+      "/photos/store25_3.jpg",
+      "/photos/store25_4.jpg",
+      "/photos/store25_5.jpg"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "ディップパレス三田インド料理",
+    "area": "三田",
+    "date": "2026-03-22",
+    "ratings": {
+      "light": 4,
+      "visual": 4,
+      "sound": 3,
+      "spaceWidth": 4,
+      "floor": 4,
+      "table": 4,
+      "chair": 4,
+      "baggage": 4,
+      "service": 4,
+      "airTemp": 4,
+      "guidance": 4,
+      "hygiene": 3,
+      "safetyBurden": 3
+    },
+    "measurements": {
+      "lux": 1986,
+      "db": 60,
+      "colorTempK": 2600
+    },
+    "service": {
+      "priceTier": null,
+      "orderMethod": "テーブル直接",
+      "paymentMethod": "レジ直接"
+    },
+    "visitContext": {
+      "timeSlot": "12:30-13:20",
+      "weather": null
+    },
+    "highlights": "広くて清潔・土日HSP向け・スタッフ親切丁寧",
+    "improvements": "テーブル溝",
+    "totalScore": null,
+    "memos": {},
+    "hasPhoto": true,
+    "photos": [
+      "/photos/store26_1.jpg",
+      "/photos/store26_2.jpg",
+      "/photos/store26_3.jpg"
+    ]
+  }
+]
